@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flecaros)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
 
 [![lecaros' github stats](https://github-readme-stats.vercel.app/api?username=lecaros&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
